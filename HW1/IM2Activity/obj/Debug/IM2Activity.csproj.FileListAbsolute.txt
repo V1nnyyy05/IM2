@@ -1,0 +1,2 @@
+C:\Users\Acer\source\repos\IM2Activity\obj\Debug\IM2Activity.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\IM2Activity\obj\Debug\IM2Activity.csproj.CoreCompileInputs.cache
