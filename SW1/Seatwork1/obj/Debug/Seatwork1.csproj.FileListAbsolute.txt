@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Seatwork1\bin\Debug\Seatwork1.exe.config
+C:\Users\Acer\source\repos\Seatwork1\bin\Debug\Seatwork1.exe
+C:\Users\Acer\source\repos\Seatwork1\bin\Debug\Seatwork1.pdb
+C:\Users\Acer\source\repos\Seatwork1\obj\Debug\Seatwork1.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Seatwork1\obj\Debug\Seatwork1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Seatwork1\obj\Debug\Seatwork1.exe
+C:\Users\Acer\source\repos\Seatwork1\obj\Debug\Seatwork1.pdb
