@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\activity_3\activity_3\obj\Debug\activity_3.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\activity_3\activity_3\obj\Debug\activity_3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\activity_3\activity_3\bin\Debug\activity_3.exe.config
+C:\Users\Acer\source\repos\activity_3\activity_3\bin\Debug\activity_3.exe
+C:\Users\Acer\source\repos\activity_3\activity_3\bin\Debug\activity_3.pdb
+C:\Users\Acer\source\repos\activity_3\activity_3\obj\Debug\activity_3.exe
+C:\Users\Acer\source\repos\activity_3\activity_3\obj\Debug\activity_3.pdb
